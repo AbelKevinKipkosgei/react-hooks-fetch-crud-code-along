@@ -1,39 +1,39 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
+      "id": "6",
       "name": "Cookies",
       "category": "Dessert",
+      "isInCart": false
+    },
+    {
+      "id": "1c15",
+      "name": "Milk",
+      "category": "Dairy",
+      "isInCart": false
+    },
+    {
+      "id": "92dd",
+      "name": "Eggs",
+      "category": "Dessert",
+      "isInCart": false
+    },
+    {
+      "id": "ce4a",
+      "name": "Kales",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "34f0",
+      "name": "Banana",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "429c",
+      "name": "Cottage Cheese",
+      "category": "Dairy",
       "isInCart": false
     }
   ]
